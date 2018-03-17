@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cngraf/phaser-template/issues"
   },
-  "homepage": "https://github.com/cngraf/phaser-template#readme"
+  "homepage": "https://github.com/cngraf/phaser-template#readme",
+  "dependencies": {
+    "phaser": "^3.2.1"
+  }
 }
