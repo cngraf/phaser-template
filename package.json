@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cngraf/phaser-template#readme",
   "dependencies": {
+    "eslint": "^4.19.0",
     "phaser": "^3.2.1"
   }
 }
