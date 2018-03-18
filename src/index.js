@@ -12,6 +12,10 @@ var config = {
   }
 };
 
+/*
+Should see `no-unused-vars` warning on `game`
+if linter is properly configured.
+*/
 var game = new Phaser.Game(config);
 
 function preload () {
